@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('1)') {
             steps {
-                echo 'Slava Ukraine HS!!!!'
+                echo 'Slava Ukraine !!!!'
             }
         }
     }
